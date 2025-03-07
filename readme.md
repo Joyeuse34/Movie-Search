@@ -21,8 +21,8 @@ A simple web application that displays movies using publicly available movie dat
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/movie-app.git
-   cd movie-app
+   git clone https://github.com/joyeuse34/movie-search.git
+   cd movie-search
    ```
 
 2. **Install dependencies:**
