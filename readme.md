@@ -53,16 +53,7 @@ A simple web application that displays movies using publicly available movie dat
 ## **Screenshots**
 
 ### **Homepage**
-
-
-
-### **Search Functionality**
-
-
-
-### **Favorites List**
-
-
+![Homepage Screenshot](screenshots/home-page.png)
 
 ## **Contributing**
 
