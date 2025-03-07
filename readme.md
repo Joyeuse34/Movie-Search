@@ -2,7 +2,7 @@
 
 A simple web application that displays movies using publicly available movie data. Users can search for movies, view details, and add movies to their favorites list.
 
-Features
+**Features**
 
 Display a list of movies with posters and details
 
@@ -12,7 +12,7 @@ Add movies to a favorites list
 
 Dark theme for a modern look
 
-Tech Stack
+**Tech Stack**
 
 React.js (Frontend)
 
@@ -22,7 +22,7 @@ CSS for styling
 
 Public API for movie data
 
-Installation
+**Installation**
 
 Clone the repository:
 
@@ -41,7 +41,7 @@ Open the app in your browser:
 
 http://localhost:3000
 
-Usage
+**Usage**
 
 Browse the list of movies displayed on the homepage.
 
