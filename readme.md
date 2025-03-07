@@ -1,75 +1,74 @@
-**Movie App**
+# **Movie App**
 
 A simple web application that displays movies using publicly available movie data. Users can search for movies, view details, and add movies to their favorites list.
 
-**Features**
+## **Features**
 
-Display a list of movies with posters and details
+- **Display a list of movies with posters and details**
+- **Search functionality to find movies by title**
+- **Add movies to a favorites list**
+- **Dark theme for a modern look**
 
-Search functionality to find movies by title
+## **Tech Stack**
 
-Add movies to a favorites list
+- **React.js (Frontend)**
+- **Node.js & Express.js (Backend)**
+- **CSS for styling**
+- **Public API for movie data**
 
-Dark theme for a modern look
+## **Installation**
 
-**Tech Stack**
+1. **Clone the repository:**
 
-React.js (Frontend)
+   ```sh
+   git clone https://github.com/your-username/movie-app.git
+   cd movie-app
+   ```
 
-Node.js & Express.js (Backend)
+2. **Install dependencies:**
 
-CSS for styling
+   ```sh
+   npm install
+   ```
 
-Public API for movie data
+3. **Start the development server:**
 
-**Installation**
+   ```sh
+   npm start
+   ```
 
-Clone the repository:
+4. **Open the app in your browser:**
 
-git clone https://github.com/your-username/movie-app.git
-cd movie-app
+   ```sh
+   http://localhost:3000
+   ```
 
-Install dependencies:
+## **Usage**
 
-npm install
+- **Browse the list of movies displayed on the homepage.**
+- **Use the search bar to find specific movies.**
+- **Click on a movie to view details.**
+- **Add movies to your favorites list.**
 
-Start the development server:
+## **Screenshots**
 
-npm start
-
-Open the app in your browser:
-
-http://localhost:3000
-
-**Usage**
-
-Browse the list of movies displayed on the homepage.
-
-Use the search bar to find specific movies.
-
-Click on a movie to view details.
-
-Add movies to your favorites list.
-
-Screenshots
-
-Homepage
-
-
-
-Search Functionality
+### **Homepage**
 
 
 
-Favorites List
+### **Search Functionality**
 
 
 
-Contributing
+### **Favorites List**
+
+
+
+## **Contributing**
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-License
+## **License**
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the **MIT License**.
 
